@@ -9,13 +9,19 @@
     "name":"Default",
   },
   "defaultScriptType":1,
-  "Folders":[],
+  "Folders":[
+    {"$GMFolder":"","%Name":"LittleTown-Assets","folderPath":"folders/LittleTown-Assets.yy","name":"LittleTown-Assets","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Backgrounds","folderPath":"folders/LittleTown-Assets/Backgrounds.yy","name":"Backgrounds","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Characters and Items","folderPath":"folders/LittleTown-Assets/Characters and Items.yy","name":"Characters and Items","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sequences","folderPath":"folders/LittleTown-Assets/Sequences.yy","name":"Sequences","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"User Interface","folderPath":"folders/LittleTown-Assets/User Interface.yy","name":"User Interface","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.1400.5.1065",
+    "IDEVersion":"2024.14.4.222",
   },
   "name":"little-town",
   "resources":[
